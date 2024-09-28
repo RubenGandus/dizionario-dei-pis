@@ -40,8 +40,8 @@ const projects = (await getCollection("work"))
 
 <BaseLayout>
 	<div class="mx-auto py-20 font-serif">
-		<div class="text-center">
-			<h1 class="text-4xl text-gray-900 sm:text-6xl mb-3">
+		<div class="">
+			<h1 class=" text-gray-900 sm:text-8xl mb-3">
 				Dizionario enciclopedico <br /> Beis - Italiano
 			</h1>
 			<h3 class="text-gray-500">Edizione I</h3>
@@ -84,20 +84,6 @@ const projects = (await getCollection("work"))
 									</li>
 								))
 								.slice(12, 24)
-						}
-					</ul>
-				</Card>
-				<Card title="Grammatica">
-					<ul class="text-gray-900 flex flex-col gap-y-4">
-						{
-							grammars
-								.map((grammar) => (
-									<li>
-										<a href="" class="hover:underline">
-											{grammar}
-										</a>
-									</li>
-								))
 						}
 					</ul>
 				</Card>
