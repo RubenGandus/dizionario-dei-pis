@@ -29,10 +29,7 @@ const letters = (await getCollection("work")).sort(
 				<Card title="Dizionario">
 					{
 						letters.map((project) => (
-							<a
-								href={`/work/` + project.slug}
-								class="letter "
-							>
+							<a href={`/work/` + project.slug} class="letter">
 								{project.data.title}
 							</a>
 						))
@@ -43,16 +40,20 @@ const letters = (await getCollection("work")).sort(
 	</div>
 
 	<script>
-		function getRandomInt(max:number) {
-			return Math.floor(Math.random() * max);
+		function getRandomInt(max: number, min: number) {
+			return Math.floor(Math.random() * (max - min) + min);
 		}
-	
+
+		const justifies = ["left", "center", "right"];
+		const align = ["baseline", "top", "middle"];
+
 		const letters = document.querySelectorAll(".letter");
 		letters.forEach((letter) => {
-			const size = getRandomInt(9);
-			letter.classList.add(`text-${size}xl`); 
-			console.log(`text-[${size}px]`);
+			const size = getRandomInt(1, 7);
+			const justifyRand = getRandomInt(0, 2);
+			letter.classList.add(`text-${size}xl`);
+			letter.classList.add(`text-${justifies[justifyRand]}`);
+			letter.classList.add(`align-${align[justifyRand]}`);
 		});
 	</script>
-
 </BaseLayout>
