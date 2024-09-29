@@ -5,3 +5,9 @@
     font-style: normal;
     font-display: swap;
   }
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-color: black;
+}
