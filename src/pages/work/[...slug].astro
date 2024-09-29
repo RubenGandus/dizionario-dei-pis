@@ -24,18 +24,23 @@ const { Content } = await entry.render();
 ---
 
 <BaseLayout title={entry.data.title} description={entry.data.description}>
-	
-	<Navigation arrows={true}/>
+	<div
+		class="flex flex-row justify-between w-full bg-white left-0 text-5xl font-serif py-5 mb-2"
+	>
+		<a href="/">●</a>
+		<div class="flex flex-row md:gap-x-5">
+			<a href={entry.data.prevLetter}>←</a>
+			<a href={entry.data.nextLetter}>→</a>
+		</div>
+	</div>
 	<div class="mx-auto mb-24 font-serif">
 		<div class="">
 			<h1 class="text-5xl sm:text-8xl mb-3">
 				{entry.data.title}
 			</h1>
-			<div class="text-md mt-10">
+			<div class="text-md mt-6">
 				<Content class="content" />
 			</div>
 		</div>
 	</div>
-
 </BaseLayout>
-
