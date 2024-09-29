@@ -11,3 +11,9 @@
 			margin-bottom: 40px;
 			border-color: black;
 		}
+
+    .playfair {
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+    }
+    
