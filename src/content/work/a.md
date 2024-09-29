@@ -1,0 +1,18 @@
+---
+title: A
+publishDate: 2024-01-01 00:00:00
+img: /assets/stock-4.jpg
+img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+description: |
+  We developed brand positioning and design assets for the launch
+  of a new colored water product.
+tags:
+  - Design
+  - Branding
+---
+
+**Amorios**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium 
+
+**Aulio**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium 

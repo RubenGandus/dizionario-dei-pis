@@ -4,48 +4,25 @@ import { getCollection } from "astro:content";
 // Layout import — provides basic page elements: <head>, <nav>, <footer> etc.
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Card from "../components/Card.astro";
+import PortfolioPreview from "../components/PortfolioPreview.astro";
 
-
-const letters = [
-	"A",
-	"B di beis",
-	"C",
-	"D",
-	"E",
-	"F",
-	"G",
-	"H",
-	"I",
-	"L",
-	"M",
-	"N",
-	"O",
-	"P",
-	"Q",
-	"R",
-	"S",
-	"T",
-	"U",
-	"V",
-	"Z",
-];
 
 const grammars = ["I. Prefissi", "II. Suffissi", "III. Utilizzo delle S"];
 
 // Content Fetching: List four most recent work projects
-const projects = (await getCollection("work"))
+const letters = (await getCollection("work"))
 	.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
 	.slice(0, 4);
 ---
 
 <BaseLayout>
-	<div class="mx-auto py-20 font-serif">
+	<div class="mx-auto my-24 font-serif">
 		<div class="">
-			<h1 class=" text-gray-900 sm:text-8xl mb-3">
-				Dizionario enciclopedico <br /> Beis - Italiano
+			<h1 class="text-5xl sm:text-8xl mb-3">
+				Dizionario enciclopedico <br /> Pis - Italiano
 			</h1>
-			<h3 class="text-gray-500">Edizione I</h3>
-			<h3 class="text-gray-500">07/11/2024</h3>
+			<h3 class="">Edizione I</h3>
+			<h3 class="">07/11/2024</h3>
 			<div
 				class="fixed bottom-10 right-10 flex items-center justify-center gap-x-6"
 			>
@@ -63,14 +40,13 @@ const projects = (await getCollection("work"))
 					<ul class="text-gray-900 flex flex-col gap-y-4 basis-1/2">
 						{
 							letters
-								.map((letter) => (
+								.map((project) => (
 									<li>
-										<a href="" class="hover:underline">
-											{letter}
+										<a href={`/work/`+ project.slug} class="hover:underline">
+											{project.data.title}
 										</a>
 									</li>
 								))
-								.slice(0, 11)
 						}
 					</ul>
 					<ul class="text-gray-900 flex flex-col gap-y-4 basis-1/2">
