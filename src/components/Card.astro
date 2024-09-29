@@ -6,12 +6,10 @@ interface Props {
 const { title } = Astro.props;
 ---
 
-<div class="p-5 border-2 rounded-md border-black w-full bg-white">
+<div class=" w-full bg-white mt-10">
     <div class="flex flex-row">
-    <h6 class="text-black  text-xl mb-4">{title}</h6>
 </div>
-    <hr class="mb-6 -mx-5 border-b border-black" />
-    <div class="flex flex-row gap-x-10 text-sm">
+    <div class="grid grid-cols-4 gap-x-10 gap-y-10 w-full">
         <slot />
     </div>
 </div>

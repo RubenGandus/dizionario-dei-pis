@@ -24,16 +24,18 @@ const { Content } = await entry.render();
 ---
 
 <BaseLayout title={entry.data.title} description={entry.data.description}>
-<Navigation />
+	
+	<Navigation />
 	<div class="mx-auto my-24 font-serif">
 		<div class="">
 			<h1 class="text-gray-900 sm:text-8xl mb-3">
 				{entry.data.title}
 			</h1>
 			<div class="text-md mt-10">
-			<Content/>
-		</div>
+				<Content class="content" />
+			</div>
 		</div>
 	</div>
+
 </BaseLayout>
 
