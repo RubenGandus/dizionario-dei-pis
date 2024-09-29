@@ -1,9 +1,18 @@
+---
+interface Props {
+	arrows: boolean;
+}
+
+const {arrows} = Astro.props;
+---
+
+
 <div
     class="flex flex-row justify-between w-full bg-white left-0 text-5xl font-serif py-5"
 >
     <a href="/">●</a>
-    <div class="flex flex-row gap-x-5">
+    {arrows && <div class="flex flex-row gap-x-5">
         <a href="/">←</a>
         <a href="/">→</a>
-    </div>
+    </div>}
 </div>

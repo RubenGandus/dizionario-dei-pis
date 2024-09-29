@@ -5,6 +5,7 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Card from "../components/Card.astro";
 import PortfolioPreview from "../components/PortfolioPreview.astro";
+import Navigation from "../components/Navigation.astro";
 
 const grammars = ["I. Prefissi", "II. Suffissi", "III. Utilizzo delle S"];
 
@@ -15,7 +16,8 @@ const letters = (await getCollection("work")).sort(
 ---
 
 <BaseLayout>
-	<div class="mx-auto my-24 font-serif">
+	<Navigation arrows={false}/>
+	<div class="mx-auto mb-24 font-serif">
 		<div class="">
 			<h1 class="text-5xl sm:text-8xl mb-3">
 				Dizionario enciclopedico <br /> Pis - Italiano
