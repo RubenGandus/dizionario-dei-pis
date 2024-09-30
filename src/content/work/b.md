@@ -18,11 +18,21 @@ akmndipok
 ---
 ---
 **Bebi**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium 
 ---
 ---
 **Beis**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium 
----
----
+Derivato dal termine bebi, modificato da un errore ortografico. es. *guarda il beis*.
 
+Vedi anche <a href="#bebi" class="text-blue-800">Bebi</a>
+---
+---
+**Bepi**
+1.Tipico triestino a forma di asparago. 
+
+2.Tipico triestino che fa i bolliti.
+---
+---
+**Bepis**
+Salamandra da compagnia.
+---
+---
