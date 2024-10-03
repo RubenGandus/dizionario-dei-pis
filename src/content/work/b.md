@@ -14,25 +14,28 @@ tags:
   - Backend
 ---
 **bi-**
-akmndipok
+[*prefisso*] - Rafforzativo
 ---
 ---
 **Bebi**
----
----
-**Beis**
-Derivato dal termine bebi, modificato da un errore ortografico. es. *guarda il beis*.
 
-Vedi anche <a href="#bebi" class="text-blue-800">Bebi</a>
 ---
 ---
-**Bepi**
-1.Tipico triestino a forma di asparago. 
+**Beculo** [*m*] - Derivato da *veculo* con rafforzamento.
+
+Vedi <a href="v#veculo" class="text-slate-500">Veculo</a>.
+---
+---
+**Beis** [*f*, *m*] - Derivato da *bebi*, modificato da un errore ortografico. es. *guarda il beis*.
+
+Vedi <a href="#bebi" class="text-slate-500">Bebi</a>.
+---
+---
+**Bepi** [*m*] - 1.Tipico triestino a forma di asparago. 
 
 2.Tipico triestino che fa i bolliti.
 ---
 ---
-**Bepis**
-Salamandra da compagnia.
+**Bepis** [*f*] - Salamandra friulana da compagnia. L'habitat in cui si trova più a suo agio è il cruscotto.
 ---
 ---
