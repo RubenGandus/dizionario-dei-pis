@@ -1,0 +1,24 @@
+---
+import { getCollection } from "astro:content";
+interface Props {
+    arrows: boolean;
+}
+
+
+
+const { arrows } = Astro.props;
+---
+
+<div
+    class="flex flex-row justify-between w-full bg-white left-0 text-4xl playfair py-5 mb-2"
+>
+    <a class="t" href="/">●</a>
+    {
+        arrows && (
+            <div class="flex flex-row  md:gap-x-5">
+                <a href="">←</a>
+                <a href="/">→</a>
+            </div>
+        )
+    }
+</div>
