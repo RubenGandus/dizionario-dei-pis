@@ -30,7 +30,7 @@ const letters = (await getCollection("work")).sort(
 				<Card title="Dizionario">
 					{
 						letters.map((project:any) => (
-							<a href={`/work/` + project.slug} class="letter">
+							<a href={`/dizionario-dei-pis/work/` + project.slug} class="letter">
 								{project.data.title}
 							</a>
 						))
