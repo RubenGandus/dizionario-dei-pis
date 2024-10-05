@@ -11,10 +11,13 @@ tags:
   - C
 
 ---
-**-s** [*suffisso*] - 
+**-s** [*suffisso*] - Suffisso utilizzatissimo applicabile a qualsiasi parola. Erroneamente si ritiene che derivi dallo spagnolo, nonostante chiare prove dimostrino derivi da Tenes.
+
+Vedi <a href="/dizionario-dei-pis/work/t" class="text-slate-500">Tenes</a>.
+
 ---
 ---
-**Sipoteva** [*avverbio*] - 
+**Sipoteva** [*avverbio*] - Spesso ripetuto. Per chiedere o dare approvazione. es *A. si poteva fare il cannis? B. Sipoteva  sipoteva!*
 ---
 ---
 **Scusi** [*v*] - Espressione per indicare contrimento e/o solidarietà.
@@ -22,6 +25,6 @@ tags:
 ---
 **Sly** [*m*] - (anche *ilcoglione*) Mercante con le sembianze di una cavalletta. 
 
-Vedi <a href="/dizionario-dei-pis/work/h#hollow-nais-m--" class="text-slate-500">Hollow Nais</a>.
+Vedi <a href="/dizionario-dei-pis/work/h" class="text-slate-500">Hollow Nais</a>.
 ---
 ---

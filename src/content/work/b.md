@@ -19,17 +19,17 @@ esprimere. es *bebi biciaulis*.
 ---
 **Bebi** 
 [*f*, *m*] - Uno degli appellativi originari. Di solito utilizzato in combinazione con my. Utilizzato per richiamare l'attenzione o come intercalare.
-Vedi <a href="/dizionario-dei-pis/work/m#my" class="text-slate-500">My</a>.
+Vedi <a href="/dizionario-dei-pis/work/m" class="text-slate-500">My</a>.
 ---
 ---
 **Beculo** [*m*] - Derivato da *veculo* con rafforzamento.
 
-Vedi <a href="/dizionario-dei-pis/work/v#veculo" class="text-slate-500">Veculo</a>.
+Vedi <a href="/dizionario-dei-pis/work/v" class="text-slate-500">Veculo</a>.
 ---
 ---
 **Beis** [*f*, *m*] - Derivato da *bebi*, modificato da un errore ortografico. es. *guarda il beis*.
 
-Vedi <a href="#bebi" class="text-slate-500">Bebi</a>.
+Vedi <a href="b" class="text-slate-500">Bebi</a>.
 ---
 ---
 **Bepi** [*m*] - 1.Tipico triestino a forma di asparago. 

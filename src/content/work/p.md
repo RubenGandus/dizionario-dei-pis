@@ -11,15 +11,21 @@ tags:
   - C
 
 ---
+**Paceva** [*v*] (anche *mipaceva*) - Espressione per indicare gradimento. Può essere anche usata per esprimere il contrario 
+con l'aggiunta di *non*
+---
+---
 **Pangevo** [*v*] (anche *pangevi*) - 
 ---
 ---
-**Pic** 
+**Pic** [*m*, *f*] - Soprannome classico, usatissimo in passato, ora sostituito da forme pù moderne.
 ---
 ---
 **Piccolina, -o** [*m^*, *f*] - Forma arcaica di Pic.
 ---
 ---
-**Pis** [*f*, *m*]  
+**Pis** [*f*, *m*] - 1. Versione moderna di Pic.
+
+2. Ghiandaia azzurra amante del tabacco e con i capelli a punta.
 ---
 ---

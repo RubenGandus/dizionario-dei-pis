@@ -11,6 +11,9 @@ tags:
   - C
 
 ---
-**Veculo** [*m*] (anche *veculis*) - 
+**Veculo** [*m*] (anche *veculis*) - Personaggio raggrinzito di Hollow Night.
+
+Vedi <a href="/dizionario-dei-pis/work/h" class="text-slate-500">Hollow Nais</a>.
+
 ---
 ---

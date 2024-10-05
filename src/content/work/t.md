@@ -11,7 +11,11 @@ tags:
   - T
 
 ---
+**Tenes** [*m*] - Film incomprensibile. Ha dato origine all'utilizzo della -S suffiziale.
 
+Vedi <a href="/dizionario-dei-pis/work/s" class="text-slate-500">-s</a>.
+---
+---
 **Tristi** [*m*] (anche *iltristi*) - Stato di malessere. A volte dovuto alle separazioni
 ---
 ---
