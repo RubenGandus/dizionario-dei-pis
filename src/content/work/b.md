@@ -14,11 +14,13 @@ tags:
   - Backend
 ---
 **bi-**
-[*prefisso*] - Rafforzativo
+[*prefisso*] - Rafforzativo. L'origine è perduta. Utilizzato per indicare un aumento di valore di quello che si vuole
+esprimere. es *bebi biciaulis*.
 ---
 ---
-**Bebi**
-
+**Bebi** 
+[*f*, *m*] - Uno degli appellativi originari. Di solito utilizzato in combinazione con my. Utilizzato per richiamare l'attenzione o come intercalare.
+Vedi <a href="/dizionario-dei-pis/work/m#my" class="text-slate-500">My</a>.
 ---
 ---
 **Beculo** [*m*] - Derivato da *veculo* con rafforzamento.

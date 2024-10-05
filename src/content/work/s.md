@@ -20,6 +20,8 @@ tags:
 **Scusi** [*v*] - Espressione per indicare contrimento e/o solidarietà.
 ---
 ---
-**Sly** [*v*] - Espressione per indicare contrimento e/o solidarietà.
+**Sly** [*m*] - (anche *ilcoglione*) Mercante con le sembianze di una cavalletta. 
+
+Vedi <a href="/dizionario-dei-pis/work/h#hollow-nais-m--" class="text-slate-500">Hollow Nais</a>.
 ---
 ---
