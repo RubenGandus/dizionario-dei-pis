@@ -11,14 +11,14 @@ tags:
   - C
 
 ---
-**Nel** [*preposizione articolata*] - 
+**Nel** [*preposizione articolata*] - Preposizione per indicare presenza in un luogo es. *Ci vediamo nel lì* o imminenza temporale es. *Ci vediamo nel domanios*.
 ---
 ---
-**Nocentini** 
+**Nocentini** [*f*] - Solitamente definita come *Signora Nocentini*. Archetipo di signora sui dai 60 anni in su con capigliatura che ricorda la forma di una noce, da qui il nome.
 ---
 ---
 **Noctis** [*1.avverbio*, *2.f*] - 1.Esclamazione notturna, da effettuare con tono deciso.
 
-2.Orca spara-acqua.
+2.Orca spara-acqua contro i passanti.
 ---
 ---

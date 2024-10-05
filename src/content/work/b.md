@@ -9,11 +9,10 @@ description: |
   We paired with a cutting-edge music API and a team of horticulturalists
   to build AI-generated playlists that maximize houseplant health.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - B
 ---
 **bi-**
+
 [*prefisso*] - Rafforzativo. L'origine è perduta. Utilizzato per indicare un aumento di valore di quello che si vuole
 esprimere. es *bebi biciaulis*.
 ---

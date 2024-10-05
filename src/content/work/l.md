@@ -12,9 +12,10 @@ tags:
 
 ---
 
-**-li-** [*interfisso*] - 
+**-li-** [*interfisso*] - Viene utilizzato collocandolo verso la fine delle parole senza una regola precisa.
+L'origine è perduta, forse derivante da una sorta di vezzegiativo.
 ---
 ---
-**little** 
+**Little** [*m*, *f*] - Aggettivo da accompagnare a bebi e variazioni. es *bebi bi-little"
 ---
 ---

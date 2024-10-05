@@ -14,13 +14,10 @@ tags:
 **Pangevo** [*v*] (anche *pangevi*) - 
 ---
 ---
-**Paxis** [*f*, *m*] (anche *pangevi*) - 
----
----
 **Pic** 
 ---
 ---
-**Piccolina, -o** 
+**Piccolina, -o** [*m^*, *f*] - Forma arcaica di Pic.
 ---
 ---
 **Pis** [*f*, *m*]  

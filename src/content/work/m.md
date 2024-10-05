@@ -18,12 +18,17 @@ tags:
 ---
 ---
 **Miscusi**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium 
+[*avverbio*] - Anche se può sembrare un verbo è in reltà un avverbio in quanto non declinabile. Da utilizzare in diversi casi:
+per scusarsi es. *Miscusi se l'avevo fatta aspettare*, per esprimere dispiacere per una condizone causata da fattori esterni es. *Miscusi se piove*.
 ---
 ---
-**My** 
+**My** [*aggettivo*] - 
 ---
 ---
-**Mutonio** 
+**Mutonio** [*m*] - 1. Veicolo di grandi dimensioni, spesso agricolo, che si muove molto lentamente.
+
+2. Automobile o persona che si move lentamente generando una fila.
+
+Entrambi i termini derivano da Mutonia, città autogestita ricca di sculture cyberpunk di grandi dimensioni.
 ---
 ---

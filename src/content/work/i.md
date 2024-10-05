@@ -12,6 +12,6 @@ tags:
 
 ---
 
-**Ies** 
+**Ies** [*avverbio] - Esclamazione di approvazione.
 ---
 ---

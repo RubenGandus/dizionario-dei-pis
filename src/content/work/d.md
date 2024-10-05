@@ -12,6 +12,6 @@ tags:
 
 ---
 
-**Dormirio** 
+**Dormirio** [*m*] - Attività notturna riposante. es *andavo nel dormirio*
 ---
 ---

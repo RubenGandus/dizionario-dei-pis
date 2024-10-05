@@ -11,12 +11,15 @@ tags:
   - C
 
 ---
-**Cias** [*avverbio*] 
+**Cias**
+[*avverbio*] - Derivato da Ciao con s rafforzativa. Da pronunciare con una leggera intonazione esclamativa. Il termine
+ha perso il suo originario significato di saluto ma è possibile utilizzarlo anche come intercalare.
 ---
 ---
-**Ciaulis** [*avverbio*] (anche *ciaulios* o *ciaulilos*) - 
+**Ciaulis** [*avverbio*] (anche *ciaulios* o *ciaulilos*) - Vezzegativo di cias, ne aumenta il valore. Derivato da Cias con li ed s rafforzativi.
 ---
 ---
-**Ciccia, -o** [*f*,*m*]  
+**Ciccia, -o**
+[*f*,*m*] - Il primo degli appellativi. Uno dei primi termine riscontrati, all'origine del linguaggio.
 ---
 ---

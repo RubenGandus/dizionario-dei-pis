@@ -12,6 +12,7 @@ tags:
 
 ---
 
-**Hollow nais** [*m*]  - 
+**Hollow nais** [*m*] (anche *suollonais) - Gioco platformer incredibilmente raffinato ma anche attivatore di bestemmie nelle 
+battaglie più ardue. Di solito accompagnato pasta al pesto e vino.
 ---
 ---
